@@ -1,7 +1,4 @@
-echo "# latihan-github" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ridhoni21/latihan-github.git
-git push -u origin main
+repo ini digunakan oleh saya untuk belajar github
+1. melakukan commit terhadap sebuah perubahan
+2. meilaht histori
+3. melihat insight
